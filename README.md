@@ -89,4 +89,3 @@ You can store the cleaned CSV in SQLite and query it with Python using sqlite3.
 - Ability to optimize manual approaches into scalable code
 - Preparing data for database storage
 
-
